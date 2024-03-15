@@ -1,6 +1,5 @@
 const WebSocket = require("ws")
 
-const env = require("./env.json")
 const { RouteHandler, static } = require("./httpsimulator")
 
 
