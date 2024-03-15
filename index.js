@@ -61,5 +61,6 @@ class AresHost{
 
 
 module.exports = {
-	AresHost
+	AresHost,
+	static
 }
